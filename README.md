@@ -1,4 +1,4 @@
-# automate-git-author-info-history-revision
+# git-author-history-fix
 Small Shell script to automate the revision of author info in a repository's commit history via command line. The steps were taken from [GitHub's help page](https://help.github.com/en/github/using-git/changing-author-info).
 
 ## 1. Modify `history.sh` script with proper email information
